@@ -1,2 +1,2 @@
 # Teste de API
-- Feita via usando pesquisas no google e IA
+- Feita via pesquisas no google e IA
